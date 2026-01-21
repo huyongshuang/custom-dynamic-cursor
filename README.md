@@ -6,3 +6,4 @@ Customizing dynamic mouse cursors for HTML web pages.
 <link rel="stylesheet" href="/css/cursor.css">
 <script src="/js/cursor.js"></script>
 ```
+自定义光标文件放在`images/cursor/`文件夹里。
